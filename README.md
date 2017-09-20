@@ -1,4 +1,4 @@
 # git-test-project
 Jira &amp; git Integration test
 
-modified
+modified2
